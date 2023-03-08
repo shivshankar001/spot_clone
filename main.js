@@ -24,7 +24,7 @@ let track_list = [
   {
     name: "nagin",
     artist: "akansha dubey",
-    image: "",
+    image: "sun.jpg",
     path: "1.mp3"
   },
   {
